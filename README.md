@@ -1,3 +1,4 @@
+![log-levels](https://user-images.githubusercontent.com/44240533/222984060-81d36668-487d-4cc3-bb1d-497e38111a62.svg)
 # Log Levels
 
 Welcome to Log Levels on Exercism's Java Track.
